@@ -1,0 +1,2 @@
+endpoint: "http://localhost:8003/"
+region: "local"

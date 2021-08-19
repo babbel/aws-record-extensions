@@ -1,0 +1,6 @@
+version: "3"
+services:
+  dynamodb-test:
+    image: amazon/dynamodb-local
+    ports:
+      - 8003:8000
